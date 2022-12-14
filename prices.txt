@@ -1,0 +1,4 @@
+position 1	32	345
+position 2	5	2454
+position 3	64	123
+position 4	2345	12
